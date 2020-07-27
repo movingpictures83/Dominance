@@ -1,0 +1,3 @@
+otufile	plugins/Dominance/example/asv_abund.transpose.csv
+mapping	plugins/Dominance/example/asv_map.csv
+tree	plugins/Dominance/example/asv_tax.csv

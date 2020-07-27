@@ -1,0 +1,2 @@
+Prefix plugins/Dominance/example
+Plugin Dominance inputfile parameters.txt outputfile dominance.csv
